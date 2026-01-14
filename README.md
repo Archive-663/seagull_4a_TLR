@@ -1,6 +1,6 @@
 # Lot no. 020 | Seagull 4a Accessories
 
-![productShot001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(1).jpg)
+![productShot001](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/PRODUCT/1.jpg)
 
 ### In this repository:
 - [GFX Strap Lug Locks](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)
