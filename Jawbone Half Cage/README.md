@@ -1,6 +1,7 @@
 ## Half Cage for Seagull 4A-103	
 
-![halfCageSeagull4A001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(4).jpg)
+![halfCageSeagull4A001](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/PRODUCT/2%20(1).jpg)
+![halfCageSeagull4A004](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/PRODUCT/2%20(4).jpg)
 
 ### Features:
 - Arca-Swiss compatible rail.
@@ -43,3 +44,10 @@ You may need to clean up the M2 hole after heat setting the threaded insert.
 ### Help support Archive 663 with a dontation or monthly sub
 
 <a href='https://ko-fi.com/P5P3MHMSF' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
+### Samples:
+
+![halfCageSeagull4ASample001](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/SAMPLE/1%20(7).jpg)
+![halfCageSeagull4ASample002](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/SAMPLE/1%20(5).jpg)
+![halfCageSeagull4ASample003](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/SAMPLE/1%20(3).jpg)
+![halfCageSeagull4ASample004](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/SAMPLE/1%20(2).jpg)
