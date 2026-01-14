@@ -37,9 +37,9 @@ Drill holes to their correct tap size before tapping.
 - M4 heatset inserts require M5.3 bore.
 - 1/4-20 heatset inserts require a 8.8ish mm bore.
 
-You will need to file the Sliding Arm so it slides smoothly in the Base Bracket. Additionally, you will need to file the dove tail on the Side Bracket for a snug fit in the Sliding Arm.
+Use the attached Affinity Designer .afdesign file to edit and print your film reminder dial labels. Affinity Designer is now free to use so sign up and grab it!
 
-You may need to clean up the M2 hole after heat setting the threaded insert.
+Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, download FreeCAD to view the assembly file and better understand how it should assemble. If using FreeCAD, the naming conventions should carry over and you will be able to see which lens element you need from the various smartphone lenses. (Verified in FreeCAD 0.18) If using something like Solid Edge open the file as an assembly to retain the names of the parts.
 
 ### Help support Archive 663 with a dontation or monthly sub
 
