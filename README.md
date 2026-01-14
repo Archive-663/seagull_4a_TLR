@@ -1,37 +1,14 @@
-## Viewfinder Adapter for Seagull 4A-103	
+# Lot no. 020 | Seagull 4a Accessories
 
-![halfCageSeagull4A001](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/PRODUCT/1.jpg)
+![productShot001](https://github.com/Archive-663/seagull_4a_TLR/blob/main/ASSETS/PHOTO/PRODUCT/1.jpg)
 
+### In this repository:
+- [GFX Strap Lug Locks](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)
+- [Jawbone Half Cage](https://github.com/Archive-663/olympusPENF/tree/main/baseBody)
+- [Viewfinder](https://github.com/Archive-663/olympusPENF/tree/main/baseBody)
 
-### Features:
-- Uses factory waist level finder screws
-- Allows you to adapt any viewfinder that will fit onto the Seagull 4A body
-
-### What you'll need:
-- 4x M1.6 x 5mm self tapping or machine screws
-- 4x Original viewfinder mounting screws
-- Assortment of mini files
-
-### What would be helpful:
-- M1.6 Drill bit
-- M1.6 Tap
-- M1.4 Drill bit for pilot tap hole
-
-### Printing help:
-Filament recommendation:
-- ABS
--PETG
-
-Generally, all my designs have chamfers on the print face of the STL. You can reference the supplied 'printOrientation' .3mf files for suggested print orientation.
-
-### Assembly help:
-Drill holes to their correct tap size before tapping.
-- M1.6 threads require M1.4 bore.
-
-Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, download FreeCAD to view the assembly file and better understand how it should assemble. If using FreeCAD, the naming conventions should carry over and you will be able to see which lens element you need from the various smartphone lenses. (Verified in FreeCAD 0.18) If using something like Solid Edge open the file as an assembly to retain the names of the parts.
-
-### Bring your own viewfinder:
-Download the STEP files and modify the adapter to fit your viewfinder in the CAD package of your choice.
+### Background Story:
+This camera was my first foray into Medium Format. It's a wonderfully cheap, but effective 6x6 camera. While I'm okay using it as it, I felt there were a few things that could be improved. So I added a half cage with standard 1/4-20 mounts, Arca Swiss plate, and common film reminder dials. I could not find camera strap lugs so I used my GFX camera strap lugs with 3d printed locks to allow me to use it on the Seagull. I've since found out that the Canon EOS M (original) camera strap lugs work on the Seagull with little to no modification.
 
 ### Help support Archive 663 with a dontation or monthly sub
 
