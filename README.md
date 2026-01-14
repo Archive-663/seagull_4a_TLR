@@ -1,13 +1,14 @@
-# Lot no. 020 | Seagull 4a
+# Lot no. 020 | Seagull 4a Accessories
+
+![productShot001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(1).jpg)
 
 ### In this repository:
-Coming Soon...
-
-### Accompanying video:
-Coming Soon...
+- [GFX Strap Lug Locks](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)
+- [Jawbone Half Cage](https://github.com/Archive-663/olympusPENF/tree/main/baseBody)
+- [Viewfinder](https://github.com/Archive-663/olympusPENF/tree/main/baseBody)
 
 ### Background Story:
-Coming Soon...
+This camera was my first foray into Medium Format. It's a wonderfully cheap, but effective 6x6 camera. While I'm okay using it as it, I felt there were a few things that could be improved. So I added a half cage with standard 1/4-20 mounts, Arca Swiss plate, and common film reminder dials. I could not find camera strap lugs so I used my GFX camera strap lugs with 3d printed locks to allow me to use it on the Seagull. I've since found out that the Canon EOS M (original) camera strap lugs work on the Seagull with little to no modification.
 
 ### Help support Archive 663 with a dontation or monthly sub
 
