@@ -38,7 +38,7 @@ Drill holes to their correct tap size before tapping.
 - M4 heatset inserts require M5.3 bore.
 - 1/4-20 heatset inserts require a 8.8ish mm bore.
 
-Use the attached Affinity Designer .afdesign file to edit and print your film reminder dial labels. Affinity Designer is now free to use so sign up and grab it!
+Use the attached Affinity Designer .afdesign file to edit and print your film reminder dial labels. Affinity Designer is now free to use so sign up and grab it! https://www.affinity.studio/download
 
 Please view the _assembly.stp file for help in parts orientation. If you do not have a CAD program, download FreeCAD to view the assembly file and better understand how it should assemble. If using FreeCAD, the naming conventions should carry over and you will be able to see which lens element you need from the various smartphone lenses. (Verified in FreeCAD 0.18) If using something like Solid Edge open the file as an assembly to retain the names of the parts.
 
